@@ -1,0 +1,22 @@
+ID,Name,Age,City,Gender
+1,John Doe,25,New York,Male
+2,Jane Smith,30,Los Angeles,Female
+3,Bob Johnson,,Chicago,Male
+4,Alice Brown,28,,Female
+5,Susan Wang,35,San Francisco,Female
+2,Jane Smith,30,Los Angeles,Female
+6,Michael Lee,missing,Washington D.C.,Male
+7,Lisa Garcia,42,Miami,Missing
+8,David Kim,29,Boston,Male
+9,,40,Seattle,Female
+10,Sarah Miller,missing,missing,Female
+11,James White,33,Atlanta,Male
+12,Emily Chen,27,Dallas,Female
+13,Chris Taylor,uNknown,Denver,Male
+14,Stephanie Patel,31,Houston,Female
+15,,25,Phoenix,Male
+16,Alexander Rodriguez,38,Chicago,Male
+17,Kelly Nguyen,29,missing,Female
+18,Ryan Martinez,36,New York,Male
+19,Amy Jackson,missing,missing,missing
+20,Michael Brown,45,Los Angeles,Male
